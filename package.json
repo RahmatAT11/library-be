@@ -1,0 +1,28 @@
+{
+  "name": "library-be",
+  "version": "1.0.0",
+  "description": "backend untuk testcase eigen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RahmatAT11/library-be.git"
+  },
+  "keywords": [
+    "express",
+    "backend",
+    "eigen",
+    "unit-test",
+    "DDD",
+    "swagger",
+    "database"
+  ],
+  "author": "Rahmat Alrafi Trikada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RahmatAT11/library-be/issues"
+  },
+  "homepage": "https://github.com/RahmatAT11/library-be#readme"
+}
